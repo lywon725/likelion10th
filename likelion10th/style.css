@@ -1,0 +1,19 @@
+*{
+    text-decoration: underline;
+}
+
+a[href="세션자료.html"]{
+    color:blue;
+}
+
+a[href="과제안내.thml"]{
+    color:red;
+}
+
+article > p{
+    color:blueviolet;
+}
+
+article p{
+    font-style: italic;
+}
